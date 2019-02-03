@@ -1,5 +1,7 @@
 # s3headerize
 
+[![CircleCI](https://circleci.com/gh/cariad/py-s3headerize.svg?style=svg)](https://circleci.com/gh/cariad/py-s3headerize)
+
 A Python package for setting HTTP headers on Amazon Web Services (AWS) S3 objects.
 
 Header values are configured per-name extension, with an optional catch-all if the object does not match any rules.
