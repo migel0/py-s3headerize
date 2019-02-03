@@ -1,4 +1,7 @@
 __pycache__
 .coverage
 .vscode
+build
+dist
 htmlcov
+s3headerize.egg-info
