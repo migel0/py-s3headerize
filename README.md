@@ -87,7 +87,7 @@ rules = [
         'when': [
           {
             'extension': '.html',
-            'then': 'max-age=302, public'
+            'then': 'max-age=300, public'
           }
         ],
         'else': 'max-age=31536000, public'
@@ -118,7 +118,7 @@ rules = [
         'when': [
           {
             'extension': '.html',
-            'then': 'max-age=302, public'
+            'then': 'max-age=300, public'
           }
         ],
         'else': 'max-age=31536000, public'
