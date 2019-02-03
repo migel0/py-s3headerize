@@ -1,0 +1,5 @@
+[run]
+include =
+    s3headerize/**
+omit =
+    **/test_*.py
