@@ -31,7 +31,8 @@ setup(
         ]
     },
     install_requires=[
-        'boto3'
+        'boto3',
+        'pyyaml'
     ],
     name='s3headerize',
     license='MIT',
